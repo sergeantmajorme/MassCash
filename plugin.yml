@@ -1,0 +1,8 @@
+name: MassCash
+main: me.SgtMjrME.MassCash.MassCash
+version: 1.0
+description: Gives money to all players onlogin or online
+depends: Essentials
+commands:
+    payall: 
+        description: flags are "onlogin <$>" and "online <$>"
